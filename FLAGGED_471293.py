@@ -12,8 +12,8 @@ intents = discord.Intents.all()
 bot = commands.Bot(command_prefix = "$", intents = intents)
 
 # tokens for discord and riot 
-discordToken = 'MTAyODUwMjcwMTY5MDA2OTA4Mg.Ginids.e__4DlDmDS5u8gmbObfzAHAiq-xXPiR8jRAyRs'
-ritoToken = 'RGAPI-a90ef0f4-ec30-40a0-bdfb-893c34ca206e'
+discordToken = 'use your token'
+ritoToken = 'use your token'
 
 # gets rid of spaces between words so determiner and inputting usernames can work
 def formatter(nameWithSpace):
